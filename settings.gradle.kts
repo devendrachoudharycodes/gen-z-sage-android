@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "genzsageandroidapp"
 include(":app")
- 
+include(":core")
